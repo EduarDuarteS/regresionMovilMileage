@@ -34,7 +34,7 @@ for i in $(seq 1 4500); do
 
     # Ejecutar monkeys
     pathLog="C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante$i/log_Seed_$SEED.txt"
-    echo $pathLog 
+    echo https://raw.githubusercontent.com/EduarDuarteS/regresionMovilMileage/master/monkeys/mutante$i/log_Seed_$SEED.txt 
     
     if ./adb shell monkey -s $SEED -p com.evancharlton.mileage -v 10000 > $pathLog ; then
         echo "| Mutante$i | Killed | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant$1 |" >> C:/Desarrollos/Testing/regresionMovilMileage/monkeys/$SEED.txt
