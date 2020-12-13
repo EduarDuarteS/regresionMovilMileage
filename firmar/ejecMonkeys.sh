@@ -4,7 +4,13 @@
 cd C:/Users/eduar/AppData/Local/Android/Sdk/platform-tools
 
 # Tareas para cada una de las ejecuciones de los monkeys
-let SEED=1426091421426
+# let SEED=1426091421426
+for SEED in 1426091421426 2426091421426 3426091421426 4426091421426 5426091421426 6426091421426; do
+    echo " ///////////////////////////////////////////////////////////////// "
+    echo " / Se inicia la ejecución de los 4500 Mutantes con la Semilla $SEED"
+    echo " ///////////////////////////////////////////////////////////////// "
+
+
 for i in $(seq 1 4500); do
 
     echo " ################################################################################# "
@@ -27,7 +33,7 @@ for i in $(seq 1 4500); do
     ./adb shell input keyevent KEYCODE_HOME
 
     # Ejecutar monkeys
-    pathLog="C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante$i/log.txt"
+    pathLog="C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante$i/log_Seed_$SEED.txt"
     echo $pathLog 
     
     if ./adb shell monkey -s $SEED -p com.evancharlton.mileage -v 10000 > $pathLog ; then
@@ -44,6 +50,8 @@ for i in $(seq 1 4500); do
     echo " ---------------------------------------------------------------------------------- "
 
 done
-
-
+    echo " ///////////////////////////////////////////////////////////////// "
+    echo " / Se Finaliza la ejecución de los 4500 Mutantes con la Semilla $SEED"
+    echo " ///////////////////////////////////////////////////////////////// "
+done
 # ./adb exec-out screencap -p > screen.png

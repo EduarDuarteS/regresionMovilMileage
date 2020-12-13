@@ -1,0 +1,141 @@
+ ################################################################################# 
+ # Inicia la ejecución del mutante 1 con la Semilla 1426091421426
+ ################################################################################# 
+Desinstallar la apk com.evancharlton.mileage
+Success
+Installar la apk com.evancharlton.mileage
+Performing Streamed Install
+Success
+C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante1/log.txt
+ ---------------------------------------------------------------------------------- 
+ - Finaliza la ejecución del mutante 1 con la Semilla 1426091421426
+ ---------------------------------------------------------------------------------- 
+ ################################################################################# 
+ # Inicia la ejecución del mutante 2 con la Semilla 1426091421426
+ ################################################################################# 
+Desinstallar la apk com.evancharlton.mileage
+Success
+Installar la apk com.evancharlton.mileage
+Performing Streamed Install
+Success
+C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante2/log.txt
+ ---------------------------------------------------------------------------------- 
+ - Finaliza la ejecución del mutante 2 con la Semilla 1426091421426
+ ---------------------------------------------------------------------------------- 
+ ################################################################################# 
+ # Inicia la ejecución del mutante 3 con la Semilla 1426091421426
+ ################################################################################# 
+Desinstallar la apk com.evancharlton.mileage
+Success
+Installar la apk com.evancharlton.mileage
+Performing Streamed Install
+Success
+C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante3/log.txt
+ ---------------------------------------------------------------------------------- 
+ - Finaliza la ejecución del mutante 3 con la Semilla 1426091421426
+ ---------------------------------------------------------------------------------- 
+ ################################################################################# 
+ # Inicia la ejecución del mutante 4 con la Semilla 1426091421426
+ ################################################################################# 
+Desinstallar la apk com.evancharlton.mileage
+Success
+Installar la apk com.evancharlton.mileage
+Performing Streamed Install
+Success
+C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante4/log.txt
+ ---------------------------------------------------------------------------------- 
+ - Finaliza la ejecución del mutante 4 con la Semilla 1426091421426
+ ---------------------------------------------------------------------------------- 
+ ################################################################################# 
+ # Inicia la ejecución del mutante 5 con la Semilla 1426091421426
+ ################################################################################# 
+Desinstallar la apk com.evancharlton.mileage
+Success
+Installar la apk com.evancharlton.mileage
+Performing Streamed Install
+Success
+C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante5/log.txt
+ ---------------------------------------------------------------------------------- 
+ - Finaliza la ejecución del mutante 5 con la Semilla 1426091421426
+ ---------------------------------------------------------------------------------- 
+ ################################################################################# 
+ # Inicia la ejecución del mutante 6 con la Semilla 1426091421426
+ ################################################################################# 
+Desinstallar la apk com.evancharlton.mileage
+Success
+Installar la apk com.evancharlton.mileage
+Performing Streamed Install
+Success
+C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante6/log.txt
+ ---------------------------------------------------------------------------------- 
+ - Finaliza la ejecución del mutante 6 con la Semilla 1426091421426
+ ---------------------------------------------------------------------------------- 
+ ################################################################################# 
+ # Inicia la ejecución del mutante 7 con la Semilla 1426091421426
+ ################################################################################# 
+Desinstallar la apk com.evancharlton.mileage
+Success
+Installar la apk com.evancharlton.mileage
+Performing Streamed Install
+Success
+C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante7/log.txt
+ ---------------------------------------------------------------------------------- 
+ - Finaliza la ejecución del mutante 7 con la Semilla 1426091421426
+ ---------------------------------------------------------------------------------- 
+ ################################################################################# 
+ # Inicia la ejecución del mutante 8 con la Semilla 1426091421426
+ ################################################################################# 
+Desinstallar la apk com.evancharlton.mileage
+Success
+Installar la apk com.evancharlton.mileage
+Performing Streamed Install
+Success
+C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante8/log.txt
+ ---------------------------------------------------------------------------------- 
+ - Finaliza la ejecución del mutante 8 con la Semilla 1426091421426
+ ---------------------------------------------------------------------------------- 
+ ################################################################################# 
+ # Inicia la ejecución del mutante 9 con la Semilla 1426091421426
+ ################################################################################# 
+Desinstallar la apk com.evancharlton.mileage
+Success
+Installar la apk com.evancharlton.mileage
+Performing Streamed Install
+Success
+C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante9/log.txt
+ ---------------------------------------------------------------------------------- 
+ - Finaliza la ejecución del mutante 9 con la Semilla 1426091421426
+ ---------------------------------------------------------------------------------- 
+ ################################################################################# 
+ # Inicia la ejecución del mutante 10 con la Semilla 1426091421426
+ ################################################################################# 
+Desinstallar la apk com.evancharlton.mileage
+Success
+Installar la apk com.evancharlton.mileage
+Performing Streamed Install
+Success
+C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante10/log.txt
+ ---------------------------------------------------------------------------------- 
+ - Finaliza la ejecución del mutante 10 con la Semilla 1426091421426
+ ---------------------------------------------------------------------------------- 
+ ################################################################################# 
+ # Inicia la ejecución del mutante 11 con la Semilla 1426091421426
+ ################################################################################# 
+Desinstallar la apk com.evancharlton.mileage
+Success
+Installar la apk com.evancharlton.mileage
+Performing Streamed Install
+Success
+C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante11/log.txt
+ ---------------------------------------------------------------------------------- 
+ - Finaliza la ejecución del mutante 11 con la Semilla 1426091421426
+ ---------------------------------------------------------------------------------- 
+ ################################################################################# 
+ # Inicia la ejecución del mutante 12 con la Semilla 1426091421426
+ ################################################################################# 
+Desinstallar la apk com.evancharlton.mileage
+Success
+Installar la apk com.evancharlton.mileage
+Performing Streamed Install
+Success
+C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante12/log.txt
