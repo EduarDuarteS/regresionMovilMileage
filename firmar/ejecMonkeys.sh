@@ -5,7 +5,7 @@ cd C:/Users/eduar/AppData/Local/Android/Sdk/platform-tools
 
 # Tareas para cada una de las ejecuciones de los monkeys
 let SEED=1426091421426
-for i in $(seq 1 5); do
+for i in $(seq 1 4500); do
 
     echo " ################################################################################# "
     echo " # Inicia la ejecución del mutante $i con la Semilla $SEED"
