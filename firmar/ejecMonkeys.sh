@@ -11,7 +11,7 @@ for SEED in 1426091421426 2426091421426 3426091421426 4426091421426 542609142142
     echo " ///////////////////////////////////////////////////////////////// "
 
 
-for i in $(seq 1142 4500); do
+for i in $(seq 1 4500); do
 
     echo " ################################################################################# "
     echo " # Inicia la ejecución del mutante $i con la Semilla $SEED"
@@ -39,6 +39,9 @@ for i in $(seq 1142 4500); do
     if ./adb shell monkey -s $SEED -p com.evancharlton.mileage -v 10000 > $pathLog ; then
         echo "| Mutante$i | Alive | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant$i |" >> C:/Desarrollos/Testing/regresionMovilMileage/monkeys/$SEED.txt
     else
+        # Capturar imagen 
+        pathScreen="C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante$i/screen_kill_mutante$i.png"
+        ./adb exec-out screencap -p > $pathScreen
         echo "| Mutante$i | Killed | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant$i |" >> C:/Desarrollos/Testing/regresionMovilMileage/monkeys/$SEED.txt
     fi
     # Capturar imagen 
