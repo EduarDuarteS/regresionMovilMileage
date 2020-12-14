@@ -37,9 +37,12 @@ for i in $(seq 1 4500); do
     echo https://raw.githubusercontent.com/EduarDuarteS/regresionMovilMileage/master/monkeys/mutante$i/log_Seed_$SEED.txt 
     
     if ./adb shell monkey -s $SEED -p com.evancharlton.mileage -v 10000 > $pathLog ; then
-        echo "| Mutante$i | Killed | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant$1 |" >> C:/Desarrollos/Testing/regresionMovilMileage/monkeys/$SEED.txt
+        echo "| Mutante$i | Alive | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant$i |" >> C:/Desarrollos/Testing/regresionMovilMileage/monkeys/$SEED.txt
     else
-        echo "| Mutante$i | Alive | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant$1 |" >> C:/Desarrollos/Testing/regresionMovilMileage/monkeys/$SEED.txt
+        # Capturar imagen 
+        pathScreen="C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante$i/screen_kill_mutante$i.png"
+        ./adb exec-out screencap -p > $pathScreen
+        echo "| Mutante$i | Killed | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant$i |" >> C:/Desarrollos/Testing/regresionMovilMileage/monkeys/$SEED.txt
     fi
     # Capturar imagen 
     pathScreen="C:/Desarrollos/Testing/regresionMovilMileage/monkeys/mutante$i/screen_mutante$i.png"
