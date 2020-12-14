@@ -1314,3 +1314,11 @@
 | Mutante16 | Alive | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant16 |
 | Mutante17 | Killed | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant17 |
 | Mutante18 | Killed | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant18 |
+| Mutante19 | Killed | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant19 |
+| Mutante20 | Killed | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant20 |
+| Mutante21 | Killed | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant21 |
+| Mutante22 | Alive | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant22 |
+| Mutante23 | Killed | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant23 |
+| Mutante24 | Killed | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant24 |
+| Mutante25 | Killed | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant25 |
+| Mutante26 | Alive | https://github.com/EduarDuarteS/regresionMovilMileage/tree/master/mutantes/com.evancharlton.mileage-mutant26 |
