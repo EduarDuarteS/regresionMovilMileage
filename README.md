@@ -14,3 +14,7 @@ Deben entregar una descripción de la estrategia de pruebas. Adicionalmente, par
 Los apks se pueden encontrar en el siguiente link:
 
 https://drive.google.com/open?id=1yeo2DD7QA_8xWiz7MwYopmu6hFJHLFOW
+
+# Solución
+
+En este repositorio encontrará el código de las pruebas automáticas ejecutadas, el plan de pruebas y el reporte de resultados lo encuentra en: https://github.com/EduarDuarteS/regresionMovilMileage/wiki
